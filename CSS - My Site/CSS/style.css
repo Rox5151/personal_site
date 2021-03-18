@@ -1,0 +1,148 @@
+a {
+  text-decoration: none;
+  color: #3a6351;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #40514e;
+  background-color: #f2edd7;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Raleway", sans-serif;
+  color: #3a6351;
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  margin: 50px auto 50px auto;
+  font-size: 2.5rem;
+  color: #3a6351;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.875rem;
+  color: #3a6351;
+}
+
+hr {
+  border: dotted #3a6351 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+  color: #3a6351;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #f2edd7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #e48257;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bush-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.sales-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.team-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+.crative-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.coms-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+.bottom-div {
+  clear: left;
+}
+
+.BUTTON_BQJ {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #3a6351;
+  font-family: Verdana;
+  font-size: 40px;
+  font-weight: 100;
+  margin-bottom: 50px;
+  padding: 40px;
+  background-color: #e48257;
+  -webkit-box-shadow: 1px 1px 20px 0 #3a6351;
+  -moz-box-shadow: 1px 1px 20px 0 #3a6351;
+  box-shadow: 1px 1px 20px 0 #3a6351;
+  text-shadow: 1px 1px 20px #3a6351;
+  border: solid #3a6351 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_BQJ:hover {
+  background: #f2edd7;
+  border: solid #f2edd7 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.nav-bar {
+  background-color: #e48257;
+  size: 100%;
+  position: relative;
+}
+.nav-link {
+  margin: 0 150px 0 150px;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
